@@ -3,7 +3,7 @@
     {
       "id": 1,
       "category": "basic_conversation",
-      "text": "Hello, my name is Al Amin. Today I am testing a speech to text API. I want to see how accurately it converts my voice into text. The weather is nice today and I am working from my laptop."
+      "text": "Hello, my name is Arslan. Today I am testing a speech to text API. I want to see how accurately it converts my voice into text. The weather is nice today and I am working from my laptop."
     },
     {
       "id": 2,
@@ -23,7 +23,7 @@
     {
       "id": 5,
       "category": "mixed_language_accent_test",
-      "text": "Hello this is Amin speaking. Ami ekta speech to text API test kortesi. I want to see if the system correctly understands my Bangladeshi accent when I speak English."
+      "text": "Hello this is Arslan speaking. Ami ekta speech to text API test kortesi. I want to see if the system correctly understands my Bangladeshi accent when I speak English."
     },
     {
       "id": 6,
